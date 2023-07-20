@@ -8,7 +8,7 @@ var turtl = {
 	core: null,
 
 	// our "remember me" lib. THAT'S IT, STAN. REMEMBERRR
-	remember_me: null,
+	remember_me: null,23
 
 	// holds the DOM object that turtl does all of its operations within
 	main_container_selector: '#main',
