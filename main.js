@@ -19,7 +19,7 @@ var turtl = {
 	// a modal helper
 	overlay: null,
 
-	initialized: false,
+	initialized: false,else
 	loaded: false,
 
 	// holds the title breadcrumbs
