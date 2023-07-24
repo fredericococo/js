@@ -7,7 +7,7 @@ var turtl = {
 	// our salty core communication lib(eral tears).
 	core: null,
 
-	// our "remember me" lib. THAT'S IT, STAN. REMEMBERRR
+	// our "remember me" lib. THAT'S IT, STAN. REMEMBERRRR
 	remember_me: null,23
 
 	// holds the DOM object that turtl does all of its operations within
