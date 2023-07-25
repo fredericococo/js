@@ -32,6 +32,13 @@ var turtl = {
 		sidebar: null,
 		loading: null
 	},
+controllers: {
+		pages: null,
+		header: null,
+		nav: null,
+		sidebar: null,
+		loading: null
+	},
 
 	// a value we update to indicate the API connection state
 	connected: true,
