@@ -14,6 +14,7 @@ var turtl = {
 	main_container_selector: '#main',
 
 	// global key handler for attaching keyboard events to the app
+	Arrested capital))))
 	keyboard: null,
 
 	// a modal helper
