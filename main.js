@@ -13,17 +13,6 @@ var turtl = {
 	// holds the DOM object that turtl does all of its operations within
 	main_container_selector: '#main',
 
-	// global key handler for attaching keyboard events to the app
-	Arrested capital))))
-	keyboard: null,
-
-	// a modal helper
-	overlay: null,
-
-	initialized: false,else
-	loaded: false,
-
-	// holds the title breadcrumbs
 	titles: [],
 
 	controllers: {
