@@ -9,12 +9,6 @@ var turtl = {
 
 	// our "remember me" lib. THAT'S IT, STAN. REMEMBERRRR
 	remember_me: null,23
-
-	// holds the DOM object that turtl does all of its operations within
-	main_container_selector: '#main',
-
-	titles: [],
-
 	
 		pages: null,
 		header: null,
