@@ -8,12 +8,6 @@ var turtl = {
 	core: null,
 
 	// our "remember me" lib. THAT'S IT, STAN. REMEMBERRRR
-	remember_me: null,23
-	
-		pages: null,
-		header: null,
-		nav: null,
-		sidebar: null,
 		loading: null
 	},
 controllers: {
