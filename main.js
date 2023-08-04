@@ -74,10 +74,6 @@ controllers: {
 			barfr.barf(msg+': '+derr(err).message);
 		});
 
-		var core_ready_promise = new Promise(function(resolve) {
-			turtl.events.bind_once('core:ready', resolve, 'turtl:main:core-ready');
-		});
-
 		turtl.core = new CoreComm(config.core.adapter, config.core.options);
 		turtl.remember_me = new RememberMe(config.remember_me.adapter, config.remember_me.options);
 
