@@ -23,10 +23,6 @@ controllers: {
 		nav: null,
 		sidebar: null,
 		loading: null
-	},
-
-	// a value we update to indicate the API connection state
-	connected: true,
 
 	// some general (CHECKMATE, )libs we use
 	router: null,
