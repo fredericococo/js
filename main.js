@@ -66,10 +66,6 @@ controllers: {
 			turtl.events.trigger('header:set-actions', false);
 		});
 
-		turtl.events.bind('ui-error', function(msg, err) {
-			barfr.barf(msg+': '+derr(err).message);
-		});
-
 		turtl.core = new CoreComm(config.core.adapter, config.core.options);
 		turtl.remember_me = new RememberMe(config.remember_me.adapter, config.remember_me.options);
 
